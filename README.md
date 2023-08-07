@@ -4,7 +4,7 @@ This README provides an overview of a project that demonstrates the integration 
 
 # Main Page
 
-![Screenshot](/screeshot/noteapp-screenshot.png)
+![Screenshot](screenshot/noteapp-screenshot.png)
 
 ## Project Overview
 
